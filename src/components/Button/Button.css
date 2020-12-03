@@ -1,0 +1,27 @@
+
+
+button {
+    font-family: "Open Sans",sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 30px;
+    max-width: 100%;
+    border: 0;
+    color: #fff;
+    border-radius: 4px;
+    min-height: 41px;
+    cursor: pointer;
+}
+
+.blueButton {
+    background-color: #56a5ea;
+}
+
+.greyButton {
+    background-color: #abb5c5;
+}
+
+.andButton {
+    padding: 5px 15px;
+    min-height: auto;
+}

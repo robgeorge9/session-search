@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: left;
+  background-color: #fbfbfb;
+  font-family: "Open Sans",sans-serif;
+  font-weight: 300;
+}
+
+.App {
+  width: 75%;
+  margin: auto;
+}
+
+svg {
+  width: 20px;
+  height: 20px;
+  vertical-align: text-bottom;
+}
+
+.flex {
+  display: flex;
+}
+
+.mt05 {
+  margin-top: 0.5rem;
+}
+.mb05 {
+  margin-bottom: 0.5rem;
+}
+.ml05 {
+  margin-left: 0.5rem;
+}
+.mr05 {
+  margin-right: 0.5rem;
+}
+
+.mt1 {
+  margin-top: 1rem;
+}
+.mb1 {
+  margin-bottom: 1rem;
+}
+.ml1 {
+  margin-left: 1rem;
+}
+.mr1 {
+  margin-right: 1rem;
+}
+.mt2 {
+  margin-top: 2rem;
+}
+.mb2 {
+  margin-bottom: 2rem;
+}
+.ml2 {
+  margin-left: 2rem;
+}
+.mr2 {
+  margin-right: 2rem;
+}
